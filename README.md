@@ -1,6 +1,7 @@
 # Store-API
 
-    A user API for the purpose of querying data from database in the bases of different conditions provided by the user
+    A user API for the purpose of querying data from database
+    in the bases of different conditions provided by the user
 
 ## Install
 
